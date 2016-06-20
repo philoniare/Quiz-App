@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="main_description">Test your Udaciousness by taking the following quiz!</string>
+    <string name="question_one">1. What year was Udacity founded?</string>
+    <string name="question_two">2. Who is the CEO and cofounder of Udacity?</string>
+    <string name="question_three">3. What is Sebastian Thrun known for?</string>
+    <string name="question_four">4. What were the first two courses to launch in Udacity?</string>
+    <string name="question_five">5. What year did Nanodegrees first launch?</string>
+    <string name="question_one_response_one">2014</string>
+    <string name="question_one_response_two">2013</string>
+    <string name="question_one_response_three">2011</string>
+    <string name="question_three_response_one">self-driving cars</string>
+    <string name="question_three_response_two">Mars colonization</string>
+    <string name="question_three_response_three">Google glass</string>
+    <string name="question_three_response_four">creation of Google DeepMind</string>
+    <string name="question_four_response_one">CS101 and CS373</string>
+    <string name="question_four_response_two">CS101 and CS102</string>
+    <string name="question_four_response_three">CS201 and CS203</string>
+    <string name="founder_name">Sebastian Thrun</string>
+    <string name="nanodegree_year">2014</string>
+</resources>
